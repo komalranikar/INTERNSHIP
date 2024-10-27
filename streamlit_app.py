@@ -34,7 +34,7 @@ st.set_page_config(page_title='2024 Election Results Dashboard', layout='wide')
 st.markdown("""
     <style>
     .sidebar .sidebar-content {
-        background-color: #800080;
+        background-color:  #FFFFFF;
     }
     .reportview-container {
         background: #e0e4e7;
