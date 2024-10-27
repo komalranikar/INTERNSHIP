@@ -39,6 +39,20 @@ This project is a web-based dashboard built using Streamlit to visualize and ana
 
 ![State and Constituency-Level Analysis](Picture8.png)
 
+- **Voter Turnout Visualization**: A grouped bar chart displays voter turnout by gender across polling constituencies, allowing for quick comparison of participation rates. If no data is available, a message informs the user.
+
+![State and Constituency-Level Analysis](Picture9.png)
+
+
+-**A pie chart visualizes the distribution of voters by gender, highlighting the proportion of Male, Female, and Others. If demographic data is missing, a notification is displayed.**
+
+![State and Constituency-Level Analysis](Picture10.png)
+
+
+-**Download Options**: Users can download filtered election and voter data as CSV files via sidebar buttons, facilitating further analysis of the data. Each download option is clearly labeled for user convenience.
+
+![State and Constituency-Level Analysis](Picture11.png)
+
 
 ## Deployment
 [2024 ELECTION DASHBORAD](https://nmdc-internship.streamlit.app/)
