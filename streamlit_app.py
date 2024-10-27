@@ -6,7 +6,7 @@ import plotly.express as px
 candidates_df = pd.read_csv('candidates_with_phase.csv')
 results_df = pd.read_csv('results_2024.csv')
 winners_df = pd.read_csv('results_2024_winners.csv')
-data_df = pd.read_csv('state2.csv')
+data_df = pd.read_csv('STATE2.csv')
 
 # Merge datasets
 merged_df1 = results_df.merge(candidates_df, 
