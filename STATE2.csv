@@ -1,0 +1,97 @@
+﻿Sl. No.,State/UT,PC,Male,Female,Others,Total
+1,Andhra Pradesh,Amalapuram (SC),84.86,82.85,52.38,83.85
+2,Andhra Pradesh,Anakapalle,81.82,82.23,48.48,82.03
+3,Andhra Pradesh,Ananthapur,81.36,79.7,45.73,80.51
+4,Andhra Pradesh,Araku (ST),74.41,72.99,43.24,73.68
+5,Andhra Pradesh,Bapatla (SC),85.84,85.15,50.59,85.48
+6,Andhra Pradesh,Chittoor (SC),86.15,85.42,46.97,85.77
+7,Andhra Pradesh,Eluru,84.71,82.7,41.27,83.68
+8,Andhra Pradesh,Guntur,79.27,78.39,38.99,78.81
+9,Andhra Pradesh,Hindupur,85.46,83.95,47.37,84.7
+10,Andhra Pradesh,Kadapa,79.21,79.93,40.28,79.57
+11,Andhra Pradesh,Kakinada,81.12,79.52,54.84,80.3
+12,Andhra Pradesh,Kurnoolu,78.14,75.49,39.75,76.8
+13,Andhra Pradesh,Machilipatnam,84.72,83.43,47.37,84.05
+14,Andhra Pradesh,Nandyal,81.48,79.8,53.01,80.61
+15,Andhra Pradesh,Narsapuram,83.5,81.73,60.26,82.59
+16,Andhra Pradesh,Narsaraopet,85.95,85.37,46.07,85.65
+17,Andhra Pradesh,Nellore,79.68,78.46,35.33,79.05
+18,Andhra Pradesh,Ongole,87.24,86.88,61.68,87.06
+19,Andhra Pradesh,Rajahmundry,81.72,80.18,59.79,80.93
+20,Andhra Pradesh,Rajampet,78.94,79.24,39.39,79.09
+21,Andhra Pradesh,Srikakulam,72.32,76.51,12.07,74.43
+22,Andhra Pradesh,Thirupathi(SC),79.88,78.38,25.68,79.1
+23,Andhra Pradesh,Vijayawada,79.8,78.96,64.9,79.37
+24,Andhra Pradesh,Visakhapatnam,70.25,71.94,35.65,71.11
+25,Andhra Pradesh,Vizianagaram,81.03,81.08,26.67,81.05
+26,Bihar,Begusarai,54.34,63.53,15.25,58.7
+27,Bihar,Darbhanga,52.41,62.87,0,57.37
+28,Bihar,Munger,55.22,55.93,13.46,55.55
+29,Bihar,Samastipur,55.12,65.65,17.86,60.11
+30,Bihar,Ujiarpur,54.72,65.01,15,59.59
+31,Jammu and Kashmir,SRINAGAR,43.73,33.21,37.5,38.49
+32,Jharkhand,Khunti,69.35,70.5,75,69.93
+33,Jharkhand,Lohardaga,64.22,68.63,25,66.45
+34,Jharkhand,Palamau,58.27,64.51,100,61.27
+35,Jharkhand,Singhbhum,68.69,69.93,21.21,69.32
+36,Madhya Pradesh,DEWAS,79.79,70.95,73.91,75.48
+37,Madhya Pradesh,DHAR,75.63,69.87,46.67,72.76
+38,Madhya Pradesh,INDORE,65.44,57.83,69.07,61.67
+39,Madhya Pradesh,KHANDWA,73.76,69.21,35.29,71.52
+40,Madhya Pradesh,KHARGONE,78.09,73.96,79.31,76.03
+41,Madhya Pradesh,MANDSOUR,78.24,72.24,71.43,75.27
+42,Madhya Pradesh,RATLAM,74.99,70.92,37.84,72.94
+43,Madhya Pradesh,UJJAIN,77.91,69.64,53.85,73.82
+44,Maharashtra,Ahmednagar,69.83,63.11,42.86,66.61
+45,Maharashtra,Aurangabad,65.79,60,32.03,63.03
+46,Maharashtra,Beed,73.28,68.27,27.59,70.92
+47,Maharashtra,Jalgaon,60.55,56.22,21.18,58.47
+48,Maharashtra,Jalna,71.16,66.99,21.15,69.18
+49,Maharashtra,Maval,57.65,51.85,26.59,54.87
+50,Maharashtra,Nandurbar,72.82,68.51,37.04,70.68
+51,Maharashtra,Pune,55.25,51.75,27.47,53.54
+52,Maharashtra,Raver,66.05,62.38,20.37,64.28
+53,Maharashtra,Shirdi,67.11,58.7,43.59,63.03
+54,Maharashtra,Shirur,57.9,50.02,16.26,54.16
+55,Odisha,Berhampur,64.34,66.49,25.5,65.41
+56,Odisha,Kalahandi,76.83,78.98,21.82,77.9
+57,Odisha,Koraput,78.46,76.69,41.54,77.53
+58,Odisha,Nabarangpur,82.21,82.11,34.48,82.16
+59,Telangana,Adilabad,74.43,73.64,40.23,74.03
+60,Telangana,Bhongir,78.21,75.38,51.9,76.78
+61,Telangana,Chevella,56.72,56.06,15.36,56.4
+62,Telangana,Hyderabad,49.99,46.93,13.78,48.48
+63,Telangana,Karimnagar,72.33,72.75,44.12,72.54
+64,Telangana,Khammam,76.98,75.27,51.54,76.09
+65,Telangana,Mahabubabad ,72.52,71.21,45.28,71.85
+66,Telangana,Mahbubnagar,73.65,71.24,38.1,72.43
+67,Telangana,Malkajgiri,51.18,50.35,24.72,50.78
+68,Telangana,Medak,76.36,73.87,31.1,75.09
+69,Telangana,Nagarkurnool,70.89,68.06,48.72,69.46
+70,Telangana,Nalgonda,75,73.08,53.25,74.02
+71,Telangana,Nizamabad,68.53,74.96,43.33,71.92
+72,Telangana,Peddapalle,68.66,67.11,32.04,67.87
+73,Telangana,Secunderabad,49.42,48.64,24.62,49.04
+74,Telangana,Warangal,69.99,67.79,21.41,68.86
+75,Telangana,Zahirabad,75.84,73.49,27.12,74.63
+76,Uttar Pradesh,Akbarpur,60.01,55.2,25.32,57.78
+77,Uttar Pradesh,Baharaich,56.54,58.41,17.31,57.42
+78,Uttar Pradesh,Dhaurahra,66.65,62.14,15.19,64.54
+79,Uttar Pradesh,Etawah,56.86,55.79,18.75,56.36
+80,Uttar Pradesh,Farrukhabad,60.15,57.84,20,59.08
+81,Uttar Pradesh,Hardoi,59.24,55.62,16.67,57.52
+82,Uttar Pradesh,Kannauj,61.63,60.46,18.95,61.08
+83,Uttar Pradesh,Kanpur,54.88,50.96,11.48,53.05
+84,Uttar Pradesh,Kheri,66.04,63.14,30.95,64.68
+85,Uttar Pradesh,Misrikh,57.89,53.63,18.37,55.89
+86,Uttar Pradesh,Shahjahanpur,55.64,50.73,6,53.36
+87,Uttar Pradesh,Sitapur,63.96,60.94,21.31,62.54
+88,Uttar Pradesh,Unnao,55.74,55.15,9.78,55.46
+89,West Bengal,Asansol,75.14,71.33,13.16,73.27
+90,West Bengal,Baharampur,73.61,81.62,32.56,77.54
+91,West Bengal,Bardhaman Purba,81.24,84.51,22.45,82.85
+92,West Bengal,Bardhaman-Durgapur,81.39,80.05,40,80.72
+93,West Bengal,Birbhum,81.27,82.55,21.05,81.91
+94,West Bengal,Bolpur,81.95,83.4,21.74,82.66
+95,West Bengal,Krishnanagar,77.49,84.02,26.92,80.65
+96,West Bengal,Ranaghat,79.67,84.19,38.98,81.87
